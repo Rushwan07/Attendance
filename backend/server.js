@@ -16,7 +16,7 @@ app.use(cors());
 
 app.use(cors(
   {
-      origin: [""],
+      origin: ["https://attendance-snowy-chi.vercel.app"],
       methods: ["POST", "GET", "DELETE"],
       credentials: true
   }
