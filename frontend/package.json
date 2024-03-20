@@ -1,5 +1,5 @@
 {
-  
+  "proxy":"https://attendance-ls3j.onrender.com",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
